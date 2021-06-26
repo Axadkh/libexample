@@ -1,0 +1,3 @@
+rootProject.name = "libexapmle"
+include ':app'
+include ':logutil'
